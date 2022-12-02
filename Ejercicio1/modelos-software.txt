@@ -1,4 +1,1 @@
-Modelo Agile
 Modelo iterativo incremental
-Modelo en cascada con feedback
-Modelo en cascada
